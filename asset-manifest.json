@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/study-mate/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/study-mate/static/js/main.fbd0f85d.chunk.js",
+    "main.js.map": "/study-mate/static/js/main.fbd0f85d.chunk.js.map",
+    "runtime-main.js": "/study-mate/static/js/runtime-main.00c7e048.js",
+    "runtime-main.js.map": "/study-mate/static/js/runtime-main.00c7e048.js.map",
+    "static/js/2.dc795ff0.chunk.js": "/study-mate/static/js/2.dc795ff0.chunk.js",
+    "static/js/2.dc795ff0.chunk.js.map": "/study-mate/static/js/2.dc795ff0.chunk.js.map",
+    "static/js/3.939e06bb.chunk.js": "/study-mate/static/js/3.939e06bb.chunk.js",
+    "static/js/3.939e06bb.chunk.js.map": "/study-mate/static/js/3.939e06bb.chunk.js.map",
+    "index.html": "/study-mate/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/study-mate/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dc795ff0.chunk.js.LICENSE.txt": "/study-mate/static/js/2.dc795ff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c7e048.js",
+    "static/js/2.dc795ff0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fbd0f85d.chunk.js"
+  ]
+}
